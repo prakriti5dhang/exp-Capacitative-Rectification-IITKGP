@@ -61,7 +61,7 @@ Assuming a finite capacitor is connected, since a new charging pulse occurs ever
 
 So we see that, a capacitor-input filter will charge and discharge such that it fills in the “gaps” between each peak. This reduces variations of voltage. As we have seen, the remaining voltage variation is called ripple voltage.
 <div align="center">
-<img src="images/caparc7.png" width="50%">
+<img src="images/capar7.png" width="50%">
 <p>Figure 7  </p>
 </div>
 
