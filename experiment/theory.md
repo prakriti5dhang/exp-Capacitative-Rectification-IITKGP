@@ -71,7 +71,7 @@ Since a rectifier circuit is designed with a particular load in mind, choosing t
 
 
 <div align="center">
-<img src="images/capar8.png" width="50%">
+<img src="images/capar8.png" width="30%">
 <p>Figure 8  </p>
 </div>
 
